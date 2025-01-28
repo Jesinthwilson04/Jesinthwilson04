@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 ## Leetcode Status ⚡
 <br>
 <div align=center>
-    <img width=390 src="https://leetcard.jacoblin.cool/Hari_S1?theme=dark&font=Content&ext=heatmap" alt="Hari's Leetcode Status" />
+    <img width=390 src="https://leetcard.jacoblin.cool/Jesinthwilson?theme=dark&font=Content&ext=heatmap" alt="Jesinth's Leetcode Status" />
 </div>
 <hr>
 <br>
