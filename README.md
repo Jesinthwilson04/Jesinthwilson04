@@ -18,10 +18,10 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/Jesinthwilson/count.svg" alt="Visitor's Count" />
 </div>
 <h1 align="center">
-<img width=600 src="https://github.com/Haris-0308/Haris-0308/blob/main/github.jpg" alt="Banner of a developer sitting in front of a desk">
+<img width=600 src="https://github.com/Jesinthwilson04/Jesinthwilson04/blob/main/github.jpg" alt="Banner of a developer sitting in front of a desk">
 </h1>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Hari;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+JESINTH;" />
 </h1>
 
 ### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
