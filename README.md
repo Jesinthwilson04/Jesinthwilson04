@@ -1,40 +1,82 @@
-<h1 align="center">Hi 😉, I'm Jesinthwilson</h1>
-<h3 align="center">A passionate developer</h3>
+## Hi there, I am Jesinthwilson Aroneraj 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jesinthwilson04&label=Profile%20views&color=0e75b6&style=flat" alt="jesinthwilson04" /> </p>
+<!-- 
+  Jesinthwilson04/Jesinthwilson04 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jesinthwilson04" alt="jesinthwilson04" /></a> </p>
 
-- 🔭 I’m currently working on **Java springboot**
 
-- 👯 I’m looking to collaborate on **Springboot**
 
-- 🤝 I’m looking for help with **React**
 
-- 👨‍💻 All of my projects are available at [no](no)
+<div align="center">
+  <p>Visitor Count</p>
+  <img src="https://profile-counter.glitch.me/Jesinthwilson/count.svg" alt="Visitor's Count" />
+</div>
 
-- 📝 I regularly write articles on [not really](not really)
+<h1 align="center">
+  <img width="600" src="https://backiee.com/static/wallpapers/1000x563/401721.jpg" alt="Banner of a developer sitting in front of a desk">
+</h1>
 
-- 📫 How to reach me **jesinth444@gmail.com**
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+JESINTH;" />
+</h1>
 
-- 📄 Know about my experiences [sorry folks](sorry folks)
+### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
 
-- ⚡ Fun fact **I think i am funny,Yes I am.**
+- 🔭 I’m currently working on **DSA**
+- 🌱 I’m currently learning **React**
+- 👯 I’m looking to collaborate on **ML/DL Projects**
+- 💬 Ask me about **Java, Python, Node.js, React... or anything [here](https://github.com/Jesinthwilson04/Jesinthwilson04/issues)**
+- 📫 Reach me at: **jesinth444@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/jesinth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jesinth" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jesinthwilson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesinthwilson" height="30" width="40" /></a>
-<a href="https://fb.com/jesinth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jesinth" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jesinthwilson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jesinthwilson" height="30" width="40" /></a>
+---
+
+<div align="center">
+  <a href="mailto:jesinth444@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/jesinth-wilson-199245259/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/Jesinthwilson/" target="_blank">
+    <img src="https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=Leetcode&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 🛠 Languages and Tools
+
+### Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,python,js,cs" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### Fullstack Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,mysql,react,mongodb,nodejs" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jesinthwilson04&show_icons=true&locale=en&layout=compact" alt="jesinthwilson04" /></p>
+### AI / Machine Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch,pandas" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jesinthwilson04&show_icons=true&locale=en" alt="jesinthwilson04" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jesinthwilson04&" alt="jesinthwilson04" /></p>
+## ⚡ GitHub Stats
 
+<div align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Jesinthwilson04&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Jesinth's GitHub Stats" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jesinthwilson04&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Jesinth's Most Used Languages" />
+</div>
+
+---
+
+## 💡 LeetCode Status
+
+<div align="center">
+  <img width="390" src="https://leetcard.jacoblin.cool/Jesinthwilson?theme=dark&font=Content&ext=heatmap" alt="Jesinth's LeetCode Status" />
+</div>
+
+---
