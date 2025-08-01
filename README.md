@@ -4,10 +4,6 @@
   Jesinthwilson04/Jesinthwilson04 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-
-
-
-
 <div align="center">
   <p>Visitor Count</p>
   <img src="https://profile-counter.glitch.me/Jesinthwilson/count.svg" alt="Visitor's Count" />
@@ -71,6 +67,12 @@
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jesinthwilson04&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Jesinth's Most Used Languages" />
 </div>
 
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jesinthwilson04&theme=transparent&hide_border=false&fire=DD2727&currStreakLabel=DD2727&currStreakNum=DD2727&sideNums=5FCDD9" alt="Jesinth's GitHub Streak Stats" />
+</div>
+
 ---
 
 ## 💡 LeetCode Status
@@ -78,5 +80,3 @@
 <div align="center">
   <img width="390" src="https://leetcard.jacoblin.cool/Jesinthwilson?theme=dark&font=Content&ext=heatmap" alt="Jesinth's LeetCode Status" />
 </div>
-
----
